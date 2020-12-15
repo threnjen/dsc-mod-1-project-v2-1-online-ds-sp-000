@@ -97,7 +97,7 @@ By: Jenny Wadkins
 ## Recommendations
 
 Exploring this data led to some really strong conclusions for Microsoft. We have evidence that a FRANCHISE is definitely the way to go, mining some existing IP. Family-friendly rated movies in G or PG are the least risky. They are less likely to result in a surprise breakout hit, but they are consistent performers. Finally, Animation, Adventure, and Fantasy are consistently performing genres. When you combine these components together, you can easily identify a Microsoft-owned IP which is family friendly, lends itself to Animation/Fantasy, and has a user base of 126 million, according to Statista. This IP is, of course, Minecraft.
-!(https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/image14-3.png)
+![Minecraft](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/image14-3.png)
 
 ## Future Work
 
