@@ -70,9 +70,21 @@ Describe EDA plan etc
 
 ## Analysis and Conclusion
 
-### Subhead Questions 1
-### Subhead Questions 2
-### Subhead Questions 3
+### Should Microsoft focus on launching a franchise, or focus on single film IPs?
+> Answer Here
+
+### What audience should the company aim for (based on MPAA rating)?
+> Answer Here
+
+### What genre(s) should the company aim for?
+> Answer Here
+
+### What combination of genre, franchise and rating will result in the lowest risk?
+> Answer Here
+
+### What, if any, genres/ratings/franchises should be avoided?
+> Answer Here
+
 
 ## Recommendations
 
