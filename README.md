@@ -17,7 +17,10 @@ By: Jenny Wadkins
 * What, if any, genres/ratings/franchises should be avoided?
 
 ## Methodology
-Describe EDA plan etc
+* Source data using a combination of API calls and web scraping
+* Clean and organize data
+* Perform exploratory data analysis
+* Provide conclusions based on analysis
 
 ## Table of Contents
 
