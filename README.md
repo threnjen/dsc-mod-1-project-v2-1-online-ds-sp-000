@@ -62,6 +62,8 @@ By: Jenny Wadkins
 
 > Future Work
 
+> Errors to Consider
+
 #### [tmdb_api_calls.ipynb](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/tmdb_api_calls.ipynb)
 * API tool to obtain IMDB IDs
 
