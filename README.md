@@ -53,19 +53,20 @@ Describe EDA plan etc
 * Actors
 
 > Conclusions
+* Answers to business questions
 
 > Recommendations
 
 > Future Work
 
 #### [tmdb_api_calls.ipynb](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/tmdb_api_calls.ipynb)
-> API tool to obtain IMDB IDs
+* API tool to obtain IMDB IDs
 
 #### [bom_scraper.ipynb](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/bom_scraper.ipynb)
-> Web scraper to get box office numbers
+* Web scraper to get box office numbers
 
 #### [franchise_scraper.ipynb](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/franchise_scraper.ipynb)
-> Web scraper to obtain franchise status
+* Web scraper to obtain franchise status
 
 ## Analysis and Conclusion
 
