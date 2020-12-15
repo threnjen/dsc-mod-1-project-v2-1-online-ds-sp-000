@@ -109,6 +109,5 @@ Exploring this data led to some really strong conclusions for Microsoft. We have
 ## Presentation
 [Data Science Module 1 Project](https://youtu.be/nZlwW4bKHPk)
 
-## Visuals
 
 
