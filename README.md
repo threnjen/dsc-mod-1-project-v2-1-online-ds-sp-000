@@ -21,6 +21,7 @@ Describe EDA plan etc
 
 ## Table of Contents
 
+### student.ipynb 
 > Notebook Preparation
 * Recommended Extensions
 * Importing our Modules
@@ -55,6 +56,15 @@ Describe EDA plan etc
 > Recommendations
 
 > Future Work
+
+### tmdb_api_calls.ipynb
+> API tool to obtain IMDB IDs
+
+### bom_scraper.ipynb
+> Web scraper to get box office numbers
+
+### franchise_scraper.ipynb
+> Web scraper to obtain franchise status
 
 ## Analysis and Conclusion
 
