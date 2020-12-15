@@ -21,23 +21,23 @@ Describe EDA plan etc
 
 ## Table of Contents
 
-### Notebook Preparation
+>### Notebook Preparation
 * Recommended Extensions
 * Importing our Modules
 * Notebook-wide Functions
 
-### Data Acquisition and Cleaning
+>### Data Acquisition and Cleaning
 * Source 1 - The Movie Database
 * Source 2 - Box Office Mojo
 * Source 3 - IMDB
 * Source 4 - The Numbers
 
-### Data Joins and Data Summary
+>### Data Joins and Data Summary
 * Data Join Plan
 * Daraframe Joins
 * Data Summary
 
-### Exploratory Data Analysis
+>### Exploratory Data Analysis
 * Studying Correlations
 * Franchises
 * Genres
@@ -50,11 +50,11 @@ Describe EDA plan etc
 * Writer
 * Actors
 
-### Conclusions
+>### Conclusions
 
-### Recommendations
+>### Recommendations
 
-### Future Work
+>### Future Work
 
 ## Analysis and Conclusion
 
