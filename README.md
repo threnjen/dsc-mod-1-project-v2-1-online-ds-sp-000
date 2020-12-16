@@ -111,7 +111,7 @@ Exploring this data led to some really strong conclusions for Microsoft. We have
 ## Presentation
 [Video - Data Science Module 1 Project](https://youtu.be/gkHU8ZpayuI)
 
-[PDF of Presentation](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/DSC%20Mod%201%20Project.pdf)
+[PDF of Presentation](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/presentation.pdf)
 
 
 
