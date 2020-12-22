@@ -109,7 +109,9 @@ Exploring this data led to some really strong conclusions for Microsoft. We have
 * And of course, we can consider additional revenues possibilities from merchandising
 
 ## Presentation
-[Data Science Module 1 Project](https://youtu.be/nZlwW4bKHPk)
+[Video - Data Science Module 1 Project](https://youtu.be/gkHU8ZpayuI)
+
+[PDF of Presentation](https://github.com/threnjen/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/presentation.pdf)
 
 
 
